@@ -29,14 +29,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.recipe_li a:hover{
-    color: rgb(139, 119, 0);
-}
-
-.recipe_li a:visited{
-    color: rgb(0, 0, 0);
-}
-
 h3 {
     color: rgb(0, 63, 0);
     font-size: 25px;
