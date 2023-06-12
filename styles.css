@@ -1,34 +1,33 @@
 .main_title {
-    color: rgb(139, 119, 0);
+    color: rgb(165, 140, 0);
     background-color: rgb(0, 63, 0);
     font-size: 40px;
     font-weight: bold;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2px;
 }
 
 .main_img {
-    width: 1800px;
+    width: 1000px;
     height: auto;
-    border: 10px solid rgb(0, 63, 0);
+    border: 5px solid rgb(0, 63, 0);
+    padding: 2px;
 }
 
 .secondary_title {
-    color: rgb(139, 119, 0);
+    color: rgb(165, 140, 0);
     background-color: rgb(0, 63, 0);
     font-size: 30px;
     font-weight: bold;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2px;
 }
 
-.recipe_li a{
-    color: rgb(0, 63, 0);
-    font-size: 20px;
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
+.recipe_li a,
 h3 {
     color: rgb(0, 63, 0);
     font-size: 25px;
