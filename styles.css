@@ -24,8 +24,9 @@
     height: auto;
     border: 5px solid rgb(0, 63, 0);
     padding: 2px;
-    margin: auto;
+    margin:auto;
     display:block;
+    max-width: 98%;
 }
 
 .card .secondary_title {
